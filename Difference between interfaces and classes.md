@@ -8,7 +8,7 @@ Tags: Theory
 - in TypeScript we use `Interface` keyword to create new interface with identity.
 - interface is a virtual structure that is used for type-checking
 
-### Example**:**
+### Example:
 
 ```jsx
 // Interface for Class
@@ -42,7 +42,7 @@ console.log("myProfileNew", myProfileNew);
 - we use `Class` keyword to create the constructor of the object
 - it can have properties, methods and variables.
 
-### Example**:**
+### Example:
 
 ```jsx
 // first letter of class name should be capital for indentify its a class
