@@ -2,7 +2,7 @@
 
 Tags: Theory
 
-## What Are Directives in Angular**:**
+## W**hat Are Directives in Angular:**
 
 - Directives are angular syntaxes witch you can write inside html DOM
 - directives help to attach behavior to the HTML DOM
